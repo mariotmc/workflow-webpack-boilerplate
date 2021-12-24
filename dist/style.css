@@ -1,0 +1,39 @@
+:root {
+  --font-title: Arial, sans-serif;
+  --font-body: Arial, sans-serif;
+  --primary-bg: #fff,
+  --secondary-bg: #000,
+  --primary-color: #fff,
+  --secondary-color: #000 ;
+}
+
+html {
+  height: 100%;
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  line-height: 1.1;
+}
+
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
